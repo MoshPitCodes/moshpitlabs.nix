@@ -540,7 +540,7 @@ Resources that have inspired me greatly:
 [Gruvbox]: https://github.com/morhetz/gruvbox
 [Hyprland]: https://github.com/hyprwm/Hyprland
 [Hyprlock]: https://github.com/hyprwm/hyprlock
-[Hyprpaper]: hhttps://github.com/hyprwm/hyprpaper
+[Hyprpaper]: https://github.com/hyprwm/hyprpaper
 [hyprpicker]: https://github.com/hyprwm/hyprpicker
 [imv]: https://sr.ht/~exec64/imv/
 [Maple Mono]: https://github.com/subframe7536/maple-font
